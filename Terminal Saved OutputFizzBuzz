@@ -1,0 +1,259 @@
+Last login: Thu Jun 23 18:36:03 on ttys000
+/Users/lizavoros/opt/anaconda3/bin/jupyter_mac.command ; exit;
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % /Users/lizavoros/opt/anaconda3/bin/jupyter_mac.command ; exit;
+Python
+[I 2022-06-23 19:19:47.294 LabApp] JupyterLab extension loaded from /Users/lizavoros/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-06-23 19:19:47.294 LabApp] JupyterLab application directory is /Users/lizavoros/opt/anaconda3/share/jupyter/lab
+[I 19:19:47.301 NotebookApp] Serving notebooks from local directory: /Users/lizavoros
+[I 19:19:47.301 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 19:19:47.301 NotebookApp] http://localhost:8888/?token=ced778c275541faa249a87e44a2e9523e504ac09ae48ba58
+[I 19:19:47.301 NotebookApp]  or http://127.0.0.1:8888/?token=ced778c275541faa249a87e44a2e9523e504ac09ae48ba58
+[I 19:19:47.301 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:19:47.309 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/lizavoros/Library/Jupyter/runtime/nbserver-10643-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ced778c275541faa249a87e44a2e9523e504ac09ae48ba58
+     or http://127.0.0.1:8888/?token=ced778c275541faa249a87e44a2e9523e504ac09ae48ba58
+ls
+
+help
+Pthon
+Python
+
+cd Desktop
+  [Restored 27 Jun 2022 at 11.38.25]
+Last login: Mon Jun 27 11:38:17 on console
+Restored session: Sun Jun 26 21:47:38 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 28 Jun 2022 at 09.11.36]
+Last login: Tue Jun 28 09:11:30 on console
+Restored session: Mon Jun 27 22:20:20 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 29 Jun 2022 at 11.55.42]
+Last login: Wed Jun 29 11:55:37 on console
+Restored session: Tue Jun 28 22:19:13 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 2 Jul 2022 at 11.56.50]
+Last login: Sat Jul  2 11:56:40 on console
+Restored session: Wed Jun 29 22:30:51 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 4 Jul 2022 at 10.04.37]
+Last login: Mon Jul  4 10:04:28 on console
+Restored session: Sat Jul  2 15:11:41 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 5 Jul 2022 at 10.32.47]
+Last login: Tue Jul  5 10:32:41 on console
+Restored session: Mon Jul  4 15:53:43 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 9 Jul 2022 at 10.17.25]
+Last login: Sat Jul  9 10:17:19 on console
+Restored session: Thu Jul  7 21:36:23 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % 
+  [Restored 10 Jul 2022 at 21.17.20]
+Last login: Sun Jul 10 21:17:10 on console
+Restored session: Sat Jul  9 13:36:56 CEST 2022
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % desktop
+zsh: command not found: desktop
+(base) lizavoros@Lizas-MacBook-Pro-7 ~ % cd desktop
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz
+Python: can't open file '/Users/lizavoros/Desktop/FizzBuzz': [Errno 2] No such file or directory
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz.py
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+Buzz
+Fizz
+FizzBuzz
+Fizz
+Buzz
+Fizz
+Fizz
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz.py
+Traceback (most recent call last):
+  File "/Users/lizavoros/Desktop/FizzBuzz.py", line 3, in <module>
+    print("FizzBuzz " + x)
+TypeError: can only concatenate str (not "int") to str
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz.py
+FizzBuzz  0
+Fizz  3
+Buzz  5
+Fizz  6
+Fizz  9
+Buzz  10
+Fizz  12
+FizzBuzz  15
+Fizz  18
+Buzz  20
+Fizz  21
+Fizz  24
+Buzz  25
+Fizz  27
+FizzBuzz  30
+Fizz  33
+Buzz  35
+Fizz  36
+Fizz  39
+Buzz  40
+Fizz  42
+FizzBuzz  45
+Fizz  48
+Buzz  50
+Fizz  51
+Fizz  54
+Buzz  55
+Fizz  57
+FizzBuzz  60
+Fizz  63
+Buzz  65
+Fizz  66
+Fizz  69
+Buzz  70
+Fizz  72
+FizzBuzz  75
+Fizz  78
+Buzz  80
+Fizz  81
+Fizz  84
+Buzz  85
+Fizz  87
+FizzBuzz  90
+Fizz  93
+Buzz  95
+Fizz  96
+Fizz  99
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz.py
+Fizz  0
+Buzz  0
+Fizz  3
+Buzz  5
+Fizz  6
+Fizz  9
+Buzz  10
+Fizz  12
+FizzBuzz  15
+Fizz  18
+Buzz  20
+Fizz  21
+Fizz  24
+Buzz  25
+Fizz  27
+FizzBuzz  30
+Fizz  33
+Buzz  35
+Fizz  36
+Fizz  39
+Buzz  40
+Fizz  42
+FizzBuzz  45
+Fizz  48
+Buzz  50
+Fizz  51
+Fizz  54
+Buzz  55
+Fizz  57
+FizzBuzz  60
+Fizz  63
+Buzz  65
+Fizz  66
+Fizz  69
+Buzz  70
+Fizz  72
+FizzBuzz  75
+Fizz  78
+Buzz  80
+Fizz  81
+Fizz  84
+Buzz  85
+Fizz  87
+FizzBuzz  90
+Fizz  93
+Buzz  95
+Fizz  96
+Fizz  99
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % Python FizzBuzz.py
+Fizz  3
+Buzz  5
+Fizz  6
+Fizz  9
+Buzz  10
+Fizz  12
+FizzBuzz  15
+Fizz  18
+Buzz  20
+Fizz  21
+Fizz  24
+Buzz  25
+Fizz  27
+FizzBuzz  30
+Fizz  33
+Buzz  35
+Fizz  36
+Fizz  39
+Buzz  40
+Fizz  42
+FizzBuzz  45
+Fizz  48
+Buzz  50
+Fizz  51
+Fizz  54
+Buzz  55
+Fizz  57
+FizzBuzz  60
+Fizz  63
+Buzz  65
+Fizz  66
+Fizz  69
+Buzz  70
+Fizz  72
+FizzBuzz  75
+Fizz  78
+Buzz  80
+Fizz  81
+Fizz  84
+Buzz  85
+Fizz  87
+FizzBuzz  90
+Fizz  93
+Buzz  95
+Fizz  96
+Fizz  99
+(base) lizavoros@Lizas-MacBook-Pro-7 desktop % 
